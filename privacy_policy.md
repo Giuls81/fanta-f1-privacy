@@ -1,14 +1,14 @@
-Privacy Policy - Fanta F1
+Privacy Policy - FantaGP
 Effective Date: 29 January 2026
 
 Last Updated: 29 January 2026
 
 Introduction
-Fanta F1 ("we", "our", "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and share information when you use our mobile application Fanta F1 (the "App").
+FantaGP ("we", "our", "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and share information when you use our mobile application FantaGP (the "App").
 
 Information We Collect
 1. Information You Provide
-When you use Fanta F1, you may provide us with:
+When you use FantaGP, you may provide us with:
 
 Account Information: Email address, display name
 Game Data: League memberships, team formations, driver selections, points, standings
@@ -62,7 +62,7 @@ support@fantaf1.app
  (update with your actual email)
 
 Children's Privacy
-Fanta F1 is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal data, please contact us.
+FantaGP is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal data, please contact us.
 
 Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of material changes by:
@@ -92,7 +92,7 @@ You have the right to withdraw consent at any time, lodge a complaint with a sup
 Data Controller
 For GDPR purposes, the data controller is:
 
-Fanta F1
+FantaGP
 Giuliano Dal Pont
 dalpontgiuliano@gmail.com
 
