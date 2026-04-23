@@ -58,8 +58,7 @@ Deletion: Request deletion of your account and personal data
 Opt-Out: Disable personalized advertising (via device settings)
 Data Portability: Receive your data in a structured format
 To exercise these rights, contact us at: 
-support@fantaf1.app
- (update with your actual email)
+dalpontgiuliano@hotmail.com
 
 Children's Privacy
 FantaGP is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal data, please contact us.
@@ -76,10 +75,7 @@ Contact Us
 If you have questions about this Privacy Policy or our data practices, contact us at:
 
 Email: 
-support@fantaf1.app
- (update with your actual email)
-
-Address: [Your Address] (optional, required for some jurisdictions)
+dalpontgiuliano@hotmail.com
 
 GDPR Compliance (European Users)
 If you are located in the European Economic Area (EEA), we process your data based on:
@@ -94,7 +90,7 @@ For GDPR purposes, the data controller is:
 
 FantaGP
 Giuliano Dal Pont
-dalpontgiuliano@gmail.com
+dalpontgiuliano@hotmail.com
 
 Last Updated: 29 January 2026
 
